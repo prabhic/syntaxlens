@@ -2,9 +2,8 @@
 
 **Understand new programming languages through what you already know.**
 
-SyntaxLens is a Real-Time Knowledge Transfer Network. It doesn't convert code between languages — it helps you *think* in a new language using concepts you already carry from ones you know.
-
-A C developer learning Rust doesn't need a translator. They need someone to explain ownership in terms of pointers and malloc/free they've worked with for years. That's what SyntaxLens does.
+SyntaxLens helps you to grasp new programming syntax and concepts, using the concepts of a known language.
+As a C developer learning Rust, I wanted to understand Rust from a C point of view — and similarly, any new language through one you already know.
 
 🔗 **Try it:** [www.syntaxlens.com](https://www.syntaxlens.com)
 
@@ -14,7 +13,7 @@ A C developer learning Rust doesn't need a translator. They need someone to expl
 
 This is the **public issue tracker and community feedback space** for SyntaxLens. No source code lives here.
 
-If you've found a bug, have a suggestion, or spotted an inaccurate mapping — [open an issue](../../issues). We track and credit all community feedback.
+If you've found a bug, have a suggestion, or spotted an inaccurate mapping — [open an issue](../../issues). I track and credit all community feedback.
 
 ## How SyntaxLens Works
 
