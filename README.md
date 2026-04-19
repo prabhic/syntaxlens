@@ -30,5 +30,5 @@ SyntaxLens is in early stage. Active development is underway based on community 
 ## Links
 
 - **Product:** [www.syntaxlens.com](https://www.syntaxlens.com)
-- **Built by:** [TURYON Tech Labs](https://www.turyontech.com)
+- **Built by:** Chandra Prabhanjana Kumar — 25 years of embedded systems across LG, Cisco, and Synamedia. Now at [TURYON Tech Labs](https://www.turyontech.com).
 
