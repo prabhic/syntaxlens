@@ -21,11 +21,11 @@ Every explanation follows a three-layer architecture called **Insight³**:
 
 - **Surface** — What does this syntax look like? What's the equivalent in your known language?
 - **Concept** — What's the underlying idea? How does it connect to something you already understand?
-- **Paradigm** — Why does this language do it this way? What design philosophy drives this choice?
+- **Paradigm** — What design philosophy drove this choice, and what does it cost you to think in it?
 
 ## Current Status
 
-SyntaxLens is in early stage. Active development is underway based on community feedback.
+SyntaxLens is actively evolving. The core three-layer architecture is stable; language coverage and mapping accuracy improve with each release
 
 ## Links
 
