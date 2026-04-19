@@ -13,7 +13,7 @@ As a C developer learning Rust, I wanted to understand Rust from a C point of vi
 
 This is the **public issue tracker and community feedback space** for SyntaxLens. No source code lives here.
 
-If you've found a bug, have a suggestion, or spotted an inaccurate mapping — [open an issue](../../issues). I track and credit all community feedback.
+If you've found a bug, have a suggestion, or spotted an inaccurate mapping — [open an issue](../../issues). 
 
 ## How SyntaxLens Works
 
